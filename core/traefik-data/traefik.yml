@@ -27,7 +27,7 @@ providers:
 certificatesResolvers:
   letsencrypt:
     acme:
-      email: rafrasenberg@gmail.com
+      email: nithwith@live.fr
       storage: acme.json
       keyType: EC384
       httpChallenge:
